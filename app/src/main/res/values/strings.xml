@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bluetooth</string>
+    <string name="lease_turn_on_the">lease turn on the</string>
+    <string name="_1_choose">Tips :-\n1. Turn your Labkit on.\n2. Make sure you connect to Labkit only.\n3. Make your Bluetooth settings visible to others.</string>
+    <string name="connect_to_labkit">connect to Labkit</string>
+    <string name="is_your_phone_s_bluetooth_connected_to_your_labkit">Is your phone\'s bluetooth connected to your Labkit ?</string>
+</resources>
